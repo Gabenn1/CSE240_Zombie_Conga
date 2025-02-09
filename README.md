@@ -1,6 +1,10 @@
 # CSE240_Zombie_Conga
 Zombie Conga Project for CSE 240
 
+## Play Zombie Conga! 
+Choose the amount of rounds, every round performs a different action and either adds or removes from the line. 
+How long can you go before its empty?
+
 ### Steps to Run the Application
 1. Clone the repository:
    ```bash
@@ -9,7 +13,7 @@ Zombie Conga Project for CSE 240
    
 2. Import the project into your IDE.
 
-3. Use commamd:
+3. Use command:
    ```bash
    make
    ```
